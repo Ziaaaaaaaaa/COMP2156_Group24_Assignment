@@ -11,3 +11,5 @@ How We'll Learn: Chat about stuff, try things out together, and work on fun proj
 How We'll Know You're Doing Great: Check your work, have some quizzes and projects.
 In the End: You'll be a pro at making computer stuff work smoothly.
 So get pumped for COMP 2156 - DevOps is gonna be a breeze!
+
+Date: 17-02-24
