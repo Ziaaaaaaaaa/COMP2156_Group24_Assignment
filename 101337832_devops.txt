@@ -1,0 +1,15 @@
+Welcome to COMP 2156 - DevOps Made Easy!
+What's DevOps? It's like teamwork for computer stuff, making things run smoothly from start to finish.
+What We'll Do: 
+- Set up and send out software fast.
+- Make everything work together nicely.
+- Use cool tools to make things easy.
+- Keep an eye on everything.
+- Work together and be nice.
+Who Can Join: Anyone who knows a bit about computers and wants to learn more.
+How We'll Learn: Chat about stuff, try things out together, and work on fun projects.
+How We'll Know You're Doing Great: Check your work, have some quizzes and projects.
+In the End: You'll be a pro at making computer stuff work smoothly.
+So get pumped for COMP 2156 - DevOps is gonna be a breeze!
+
+Date: 17-02-24
