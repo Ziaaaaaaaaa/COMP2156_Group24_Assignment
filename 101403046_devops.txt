@@ -1,0 +1,6 @@
+This course teaches students about DevOps, which is about making work environments more efficient. You'll learn how to use different tools and methods to improve productivity. 
+We'll explore various techniques used by DevOps engineers and get hands-on experience with common industry tools.
+
+You'll also learn about different types of data formats like XML, JSON, YAML, and YANG, and how they're used in automating tasks, especially in networking. We'll focus on using 
+specific DevOps tools like Ansible and Git to solve real-world problems in business settings.
+
